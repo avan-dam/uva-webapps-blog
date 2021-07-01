@@ -1,5 +1,7 @@
 # uva-webapps-blog
-This was my second one week project on web development. I learnt about Jekyll, Javascript, Markdown, Bootstrap
+This was my second one week project on web development. 
+
+I learnt about Jekyll, Javascript, Markdown, Bootstrap and more about HTML and CSS.
 
 This website is a blog about how to approach the new reality corona has inflicted on the world. 
 
